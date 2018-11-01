@@ -9,3 +9,4 @@ The following assignment concerns the well-known Anscombe’s quartet dataset [2
 - [ ] 3. Calculate the descriptive statistics of the variables in the dataset. 
 - [ ] 4. Explain why the dataset is interesting, referring to the plots and statistics above.
 
+__[External Viewer](https://nbviewer.jupyter.org/github/G00364778/52446_assignments/blob/master/Anscombes%20Quartet%20dataset.ipynb)__
