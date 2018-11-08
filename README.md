@@ -1,12 +1,17 @@
 # Assignment 2018
 ## Fundamentals of Data Analysis
 
-**Problem statement:** 
-The following assignment concerns the well-known Anscombe’s quartet dataset [2]. You are required to create a Jupyter [5] notebook analysing the dataset. There are four distinct tasks to be carried out in your Jupyter notebook. 
+This repository contains the Jupyter Notebook for The Fundamentals for Data Analytics assignment.
 
-- [ ] 1. Explain the background to the dataset – who created it, when it was created, and any speculation you can ﬁnd regarding how it might have been created. 
-- [ ] 2. Plot the interesting aspects of the dataset. 
-- [ ] 3. Calculate the descriptive statistics of the variables in the dataset. 
-- [ ] 4. Explain why the dataset is interesting, referring to the plots and statistics above.
+## How to run the notebook?
 
-__[Display the assignment in an external viewer](https://nbviewer.jupyter.org/github/G00364778/52446_assignments/blob/master/Anscombes%20Quartet%20dataset.ipynb)__
+The notebook can be viewed and run in three difirent ways, directly on GitHub, one the official Jupyter Notebook viewer(nbviewer) or downloaded locally and run in Jupyter Notebook.
+
+The GitHub viewer does not suppport all the standard features like internal links and left aligned image rendering, so otion two or three yields better results.
+
+1. __[viewed online](Anscombes_Quartet_dataset.ipynb)__ in GitHib
+1. Download __[The Python numpy.random package.ipynb](https://raw.githubusercontent.com/G00364778/52446_assignments/master/Anscombes_Quartet_dataset.ipynb)__
+1. __[Display the assignment in an external viewer](https://nbviewer.jupyter.org/github/G00364778/52446_assignments/blob/master/Anscombes_Quartet_dataset.ipynb)__
+
+## References
+- [Github Markdown reference](https://guides.github.com/features/mastering-markdown/)
